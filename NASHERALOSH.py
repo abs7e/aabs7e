@@ -29,11 +29,11 @@ app = Client(
     "autoPost",
     api_id="29510141",
     api_hash="14c074a5aed49dc7752a9f8d54cf4ad4",
-    bot_token="6337095964:AAFbdnQSu5Ffr-HjZhX595aEiGVtNpbDZR4",
+    bot_token="7131381721:AAHz341IPH9EHenG5-M2xplh6zE2GIwFjqQ",
 )
 loop = get_event_loop()
 listener = Listener(client = app)
-owner = 6013286715 # YOUR ID
+owner = 6937897393 # YOUR ID
 
 """
 USER SECRION START
